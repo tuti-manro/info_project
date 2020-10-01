@@ -1,2 +1,2 @@
-# loquiloqui
+# Juego_informatica
 testing
